@@ -7,7 +7,6 @@ sidebar: true
 comments: false
 sharing: true
 footer: true
-logo: asus.png
 ha_category:
   - Hub
   - Presence Detection
